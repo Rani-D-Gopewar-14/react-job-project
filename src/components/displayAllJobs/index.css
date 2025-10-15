@@ -1,0 +1,13 @@
+.link-cont
+{
+    color: black;
+    
+}
+
+.listCont:focus
+{
+    text-decoration: none;
+    color: black;
+}
+
+
